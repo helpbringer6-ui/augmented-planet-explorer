@@ -8,8 +8,8 @@
     "ios": "react-native run-ios"
   },
   "dependencies": {
-    "react": "17.0.2",
-    "react-native": "0.64.4"
+    "react": "18.2.0",
+    "react-native": "0.71.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
